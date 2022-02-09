@@ -8,16 +8,20 @@ body {
 input {
     width: 100%;
     padding: 10px;
-    border: 2px solid #ee71e8;
+    border: 2px solid #71ee7b;
     margin-bottom: 4px;
 }
 
 button {
-    background: #c935d6;
+    background: #71ee7b ;
     color: #fff;
     padding: 10px 20px;
-    border: none;
+    border: 1px solid #71ee7b;
     font-weight: bold;
+}
+#delete-btn{
+    background: #fff;
+    color: green;
 }
 
 ul {
@@ -31,6 +35,6 @@ li {
 }
 
 a {
-    color: #d300a5;
+    color: #0c0b0c;
     text-decoration: none;
 }
